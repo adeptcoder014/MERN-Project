@@ -1,0 +1,6 @@
+type trading_data {
+
+date : Int !
+time : GraphQLTime !
+}
+
